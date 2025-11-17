@@ -2,7 +2,7 @@
   "name": "claude-inspired-theme",
   "displayName": "Claude Themes",
   "description": "Warm, sophisticated dark and light themes for VSCode inspired by Claude's brand identity",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "pnyro",
   "repository": {
     "type": "git",
