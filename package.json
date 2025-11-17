@@ -1,7 +1,7 @@
 {
   "name": "claude-inspired-theme",
   "displayName": "Claude Themes",
-  "description": "A warm, sophisticated theme for VSCode inspired by Claude's brand identity",
+  "description": "Warm, sophisticated dark and light themes for VSCode inspired by Claude's brand identity",
   "version": "1.0.0",
   "publisher": "pnyro",
   "repository": {
@@ -17,6 +17,7 @@
   "keywords": [
     "theme",
     "dark",
+    "light",
     "claude",
     "warm",
     "color-theme"
@@ -27,6 +28,11 @@
         "label": "Claude Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/claude-dark.json"
+      },
+      {
+        "label": "Claude Light",
+        "uiTheme": "vs",
+        "path": "./themes/claude-light.json"
       }
     ]
   },

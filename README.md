@@ -1,6 +1,6 @@
-# Claude Dark Theme
+# Claude Theme
 
-A warm, sophisticated dark theme for Visual Studio Code inspired by Claude's brand identity.
+Warm, sophisticated dark and light themes for Visual Studio Code inspired by Claude's brand identity.
 
 ## Features
 
@@ -8,17 +8,20 @@ A warm, sophisticated dark theme for Visual Studio Code inspired by Claude's bra
   - **Crail** `#C15F3C` - Warm terracotta for accents and highlights
   - **Cloudy** `#B1ADA1` - Warm gray-taupe for secondary elements
   - **Pampas** `#F4F3EE` - Warm off-white/cream for text
-- **Comfortable Backgrounds**: Dark warm browns that reduce eye strain
+- **Both Dark and Light Modes**: Choose between warm dark browns or light cream backgrounds
+- **Comfortable Backgrounds**: Reduce eye strain with carefully balanced warmth
 - **Excellent Contrast**: Carefully selected colors meet WCAG AA standards
 - **Comprehensive Syntax Highlighting**: Support for JavaScript, TypeScript, Python, Java, C/C++, CSS, HTML, Markdown, and more
 
 ## Preview
 
-The theme features:
-- Warm dark brown editor background (`#1a1816`)
-- Crail accent colors for focus states and active elements
+Both themes feature:
+- Crail (`#C15F3C`) accent colors for focus states and active elements
 - Sophisticated syntax highlighting with warm tones
 - Consistent UI elements throughout VSCode
+
+**Dark Theme**: Warm dark brown editor background (`#1a1816`)
+**Light Theme**: Warm cream editor background (`#F4F3EE`)
 
 ## Installation
 
@@ -29,13 +32,13 @@ The theme features:
    - **Windows**: `%USERPROFILE%\.vscode\extensions`
    - **macOS/Linux**: `~/.vscode/extensions`
 3. Restart VSCode
-4. Go to `Preferences > Color Theme` and select **Claude Dark**
+4. Go to `Preferences > Color Theme` and select **Claude Dark** or **Claude Light**
 
 ### Manual Installation
 
 1. Press `Ctrl+Shift+P` / `Cmd+Shift+P`
 2. Type `Preferences: Color Theme`
-3. Select **Claude Dark**
+3. Select **Claude Dark** or **Claude Light**
 
 ## Color Reference
 
@@ -49,12 +52,23 @@ The theme features:
 
 ### UI Colors
 
+**Dark Theme:**
+
 | Element | Color |
 |---------|-------|
 | Editor Background | `#1a1816` |
 | Sidebar Background | `#16140f` |
 | Foreground Text | `#e8e6e3` |
 | Borders | `#2b2621` |
+
+**Light Theme:**
+
+| Element | Color |
+|---------|-------|
+| Editor Background | `#F4F3EE` |
+| Sidebar Background | `#ebe9e4` |
+| Foreground Text | `#2d2820` |
+| Borders | `#d4d0c8` |
 
 ### Syntax Colors
 
