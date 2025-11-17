@@ -1,7 +1,7 @@
 {
-  "name": "claude-vscode-theme",
-  "displayName": "Claude Dark Theme",
-  "description": "A warm, sophisticated dark theme for VSCode inspired by Claude's brand identity",
+  "name": "claude-theme",
+  "displayName": "Claude Themes",
+  "description": "A warm, sophisticated theme for VSCode inspired by Claude's brand identity",
   "version": "1.0.0",
   "publisher": "pnyro",
   "repository": {
