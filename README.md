@@ -2,7 +2,8 @@
 
 Warm, sophisticated dark and light themes for Visual Studio Code inspired by Claude's brand identity.
 
-![Screenshot](screenshots/main.png)
+![Screenshot](screenshots/dark.png)
+![Screenshot](screenshots/light.png)
 
 ## Features
 
