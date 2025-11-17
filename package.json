@@ -1,0 +1,37 @@
+{
+  "name": "claude-vscode-theme",
+  "displayName": "Claude Dark Theme",
+  "description": "A warm, sophisticated dark theme for VSCode inspired by Claude's brand identity",
+  "version": "1.0.0",
+  "publisher": "pnyro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pnyro/claude-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "claude",
+    "warm",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claude Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/claude-dark.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#1a1816",
+    "theme": "dark"
+  }
+}
